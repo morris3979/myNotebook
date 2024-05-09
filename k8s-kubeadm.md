@@ -1,5 +1,8 @@
 # Create a Kubernetes Cluster (Kubeadm)
 
+![image](https://hackmd.io/_uploads/r1fYjW5M0.png =30%x) ![image](https://hackmd.io/_uploads/rkFJnZqzR.png =36%x)
+
+
 ## Step1 - 準備好主節點及工作節點主機，如下表所示
 
 |           |   Name        |   IP              |
