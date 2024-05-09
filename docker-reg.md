@@ -1,5 +1,8 @@
 # Create a Private Docker Registry
 
+![image](https://hackmd.io/_uploads/HJa23Z5GC.png =72%x)
+
+
 ## Step1 安裝並配置所需工具
 
 - ### 1. 安裝 [Docker](https://docs.docker.com/engine/install/ubuntu/#installation-methods)
