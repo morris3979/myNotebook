@@ -112,12 +112,6 @@
 
         # 將如下所示的配置複製並貼上到文件中
         {
-            "runtimes": {
-                "nvidia": {
-                    "args": [],
-                    "path": "nvidia-container-runtime"
-                }
-            },
             "insecure-registries": ["<your-domain-or-ip>"]
         }
 
